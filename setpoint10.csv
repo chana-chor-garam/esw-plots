@@ -1,4 +1,4 @@
-Time	Temp	Setpoint
+Time	Temp	Setpoint	Output	State
 0	16.09	10	255	0
 1	15.86	10	255	0
 2	15.73	10	255	0
